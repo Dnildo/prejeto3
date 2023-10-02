@@ -1,0 +1,58 @@
+@use "/my-app/src/scss/variables.scss" as *;
+
+.editScreen {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 45rem;
+    height: 25rem;
+    align-items: center;
+    border-radius: 8px;
+    font-family: 'Raleway';
+
+
+    h2 { color:rgb(247, 243, 239);
+        font-weight: 400;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        padding-bottom: 2rem;
+    }
+
+    button {
+        width: 15rem;
+        height: 4rem;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+
+        
+        font-size: 30px;
+    }
+
+    .noButton {
+        background-color: $blue-button-color;
+        color: white;
+        font-weight: 600;
+    }
+    .noButton:hover{
+        color: rgb(14, 13, 13);
+    }
+
+    .yesButton {
+        border: 1px rgb(238, 228, 228) solid;
+        font-weight: 500;
+    }
+    .yesButton:hover{
+        color: rgb(155, 105, 105);
+    }
+
+}
+
+.alterar h1, h2{
+    color: rgb(240, 236, 231);
+}
