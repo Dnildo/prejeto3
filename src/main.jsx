@@ -1,14 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-
-
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import "./src/global.scss"
+import "./global.scss"
 import Home from "./views/Home/Home.jsx";
 import Edit from "./views/Edit/Edit";
 import Delete from "./views/Delet/Delete.jsx";
-import Lapis from "my-app/public/lapis.png"
+import Lapis from "/public/lapis.png";
 
 const router = createBrowserRouter([
   {
