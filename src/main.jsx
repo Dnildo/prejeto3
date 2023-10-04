@@ -5,7 +5,7 @@ import "./global.scss"
 import Home from "./views/Home/Home.jsx";
 import Edit from "./views/Edit/Edit";
 import Delete from "./views/Delet/Delete.jsx";
-import Lapis from "/public/lapis.png";
+import Lapis from "/src/assets/react.svg";
 
 const router = createBrowserRouter([
   {
