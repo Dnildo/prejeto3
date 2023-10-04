@@ -1,9 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "./index.scss";
 import { Link } from "react-router-dom";
-
-import Lapis from "/public/lapis.png"
-import Trash from "/public/delete.png"
+import Lapis from "/src/assets/icons8-lápis-50.png"
+import  Trash from "/src/assets/delete.png"
 
 const Tarefas = () => {
   const [newItem, setNewItem] = useState("");
