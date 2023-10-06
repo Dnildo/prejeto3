@@ -22,8 +22,12 @@ Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de col
 	
 	
  (  ![Captura de tela 2023-09-27 090758](https://github.com/Dnildo/prejeto3/assets/93888677/21d01789-4c53-49f2-82b5-a14a9ce70456)
-)</p>
+)
+</p>
 <p>2 melhorias no bakcground-color da página:
+
+
+![Captura de tela 2023-09-28 083929](https://github.com/Dnildo/prejeto3/assets/93888677/981a4b4f-1ff9-4cb7-82bd-fa686ef763a4)
 </p>
 
 <hr>
