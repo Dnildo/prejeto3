@@ -14,10 +14,17 @@
 
 Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
 <h5>FORAM APLICADAS NESTA APLICAÇÃO ÀS SEGUINTES ATUALIZAÇÕES</h5>
-<p>1 hover nos botãoes delete e adicionar</p>
-<p>2 melhorias no bakcground-color da página</p>
+<p>1 hover nos botãoes delete e adicionar:
+![image](https://github.com/Dnildo/prejeto3/assets/93888677/87a9f30d-c327-4da9-b589-c1868eb81b5b).https://github.com/Dnildo/prejeto3/assets/93888677/50aa8521-742f-44c5-b52b-6182ac2298eb)
+</p>
+
+<p>2 melhorias no bakcground-color da página:![image](
+	![image](https://github.com/Dnildo/prejeto3/assets/93888677/c107acdd-e433-4564-b9d3-676702fed1b4)
+
+</p>
 
 <hr>
+
 
 <h4>Tecnologias 🚀</h4>
 
