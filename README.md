@@ -15,7 +15,7 @@
 Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
 <h5>FORAM APLICADAS NESTA APLICAÇÃO ÀS SEGUINTES ATUALIZAÇÕES</h5>
 <p>1 hover nos botãoes delete e adicionar</p>
-<p>2 mundança no bakcground da página</p>
+<p>2 melhorias no bakcground-color da página</p>
 
 <hr>
 
